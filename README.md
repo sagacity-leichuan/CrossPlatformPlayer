@@ -20,3 +20,5 @@ Implementation of Audio and Video Player Based on FFMPEG and QT.
 	如何使用QT的接口播放音频
 ## TestQtOpengl子项目
 	如何使用QT Opengl播放视频图像
+## XPlayer2子项目
+	播放器的具体实现，同时可以拉去直播流
