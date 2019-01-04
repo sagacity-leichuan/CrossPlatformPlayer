@@ -1,5 +1,5 @@
 # PC Player
-Implementation of Audio and Video Player Based on FFMPEG and QT.
+	Implementation of Audio and Video Player Based on FFMPEG and QT.
 
 ## Directory Introduction
 ### bin
