@@ -1,3 +1,3 @@
 # ANDROID Player
-	Implementation of Audio and Video Player Based on ANDROID.
+	Implementation of Audio and Video Player Based on ANDROID
 
